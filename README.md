@@ -1,0 +1,43 @@
+C言語を使用して作成した2Dアクションゲームです。
+
+自分で実装したファイル
+- action_enemy.cpp
+- action_enemy.h
+- background.cpp
+- background.h
+- block.cpp
+- block.h
+- bullet.cpp
+- bullet.h
+- camera.cpp
+- camera.h
+- efect.cpp
+- efect.h
+- enemybullet.cpp
+- enemybullet.h
+- explosion.cpp
+- explosion.h
+- fade.cpp
+- fade.h
+- game.cpp
+- game.h
+- gimmick.cpp
+- gimmick.h
+- lift.cpp
+- lift.h
+- Main.cpp
+- Main.h
+- pause.cpp
+- pause.h
+- player.cpp
+- player.h
+- result.cpp
+- result.h
+- score.cpp
+- score.h
+- Sound.cpp
+- Sound.h
+- Sprite.cpp
+- Sprite.h
+- title.cpp
+- title.h
