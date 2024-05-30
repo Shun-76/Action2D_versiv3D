@@ -83,8 +83,5 @@ void DrawBG(void)
 		0.9f, 0.72f, 0.9f, 1.f,
 		0.f, 0.f, 1.0f, 1.0f);
 	
-	DrawSpriteQuad(g_hill,
-		0.f, (SCREEN_HEIGHT - camera->Position.y) * 0.8, SCREEN_WIDTH, SCREEN_HEIGHT,
-		0.9f, 0.72f, 0.9f, 1.f,
-		0.f, 0.f, 1.0f, 0.05);
+	Rect{ 0, (s3d::Rect::value_type)(-camera->Position.y * 0.8 + SCREEN_HEIGHT), SCREEN_WIDTH, SCREEN_HEIGHT}.draw({0.1f, 0.72f, 0.2f, 1.f});
 }
