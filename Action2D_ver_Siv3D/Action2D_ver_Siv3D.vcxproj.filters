@@ -866,15 +866,6 @@
     <ClInclude Include="stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Sprite.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Main.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Sound.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="action_enemy.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -924,6 +915,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="title.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
